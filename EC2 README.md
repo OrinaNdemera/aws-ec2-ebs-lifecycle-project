@@ -48,16 +48,10 @@ Connect to the instance via **Session Manager** (no SSH keys needed).
 ### ✅ Step 4 – Create Two EBS Volumes
 Create two 1GB gp3 volumes in the **same AZ** as the instance.
 
-📸 Screenshot:  
-![Create EBS Volumes](screenshots/step4-create-volumes.png)
-
 ---
 
 ### ✅ Step 5 – Attach Volumes
 Attach the volumes as `/dev/sdf` and `/dev/sdg`.
-
-📸 Screenshot:  
-![Attach Volumes](screenshots/step5-attach-volumes.png)
 
 ---
 
@@ -65,7 +59,7 @@ Attach the volumes as `/dev/sdf` and `/dev/sdg`.
 Create another 1GB gp3 volume but **do not attach it**.
 
 📸 Screenshot:  
-![Unattached Volume](screenshots/volumes-status.png)
+![Unattached Volume](screenshots/Volumes-status.png)
 
 ---
 
