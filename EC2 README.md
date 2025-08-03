@@ -14,8 +14,6 @@ This project demonstrates how to:
 ## 📸 Architecture Diagram
 ![Architecture Diagram](screenshots/architecture-diagram.png)
 
-_Replace `architecture-diagram.png` with your diagram image._
-
 ---
 
 ## 🛠 Prerequisites
