@@ -12,7 +12,7 @@ This project demonstrates how to:
 ---
 
 ## 📸 Architecture Diagram
-![Architecture Diagram](screenshots/architecture-diagram.png)
+![Architecture Diagram](screenshots/aws-ec2-ebs-lifecycle-project.png)
 
 ---
 
