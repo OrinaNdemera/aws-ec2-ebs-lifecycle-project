@@ -65,7 +65,7 @@ Attach the volumes as `/dev/sdf` and `/dev/sdg`.
 Create another 1GB gp3 volume but **do not attach it**.
 
 📸 Screenshot:  
-![Unattached Volume](screenshots/step6-unattached-volume.png)
+![Unattached Volume](screenshots/volumes-status.png)
 
 ---
 
