@@ -72,4 +72,7 @@ sudo mkdir /data1 /data2
 sudo mount /dev/xvdf /data1
 sudo mount /dev/xvdg /data2
 echo "Test File" | sudo tee /data1/file1.txt
+ls /data1
+# Output: file1.txt  lost+found
+
 echo "Another File" | sudo tee /data2/file2.txt
